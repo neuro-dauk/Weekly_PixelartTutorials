@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 八月
 
+- 第196期：[做出不一样的东西](doc/issue-196.md)
 - 第195期：[无穷原则](doc/issue-195.md)
 
 ## 七月
