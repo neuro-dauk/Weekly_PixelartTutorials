@@ -7,6 +7,10 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 八月
+
+- 第195期：[无穷原则](doc/issue-195.md)
+
 ## 七月
 
 - 第194期：[创造财富](doc/issue-194.md)
