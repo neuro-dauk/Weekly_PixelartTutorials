@@ -7,8 +7,13 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 九月
+
+- 第199期：[真的想做一个项目](doc/issue-199.md)
+
 ## 八月
 
+- 第198期：[身体和心灵是一体的](doc/issue-198.md)
 - 第197期：[冥想是一个过程](doc/issue-197.md)
 - 第196期：[做出不一样的东西](doc/issue-196.md)
 - 第195期：[无穷原则](doc/issue-195.md)
