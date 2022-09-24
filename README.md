@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 九月
 
+- 第202期：[易如反掌](doc/issue-202.md)
 - 第201期：[无](doc/issue-201.md)
 - 第200期：[差别可大了](doc/issue-200.md)
 - 第199期：[真的想做一个项目](doc/issue-199.md)
