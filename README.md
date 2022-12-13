@@ -7,6 +7,27 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 十二月
+
+
+- 第213期：[白手起家](doc/issue-213.md)
+- 第212期：[徒劳无功](doc/issue-212.md)
+
+## 十一月
+
+- 第211期：[说服自己](doc/issue-211.md)
+- 第210期：[刚需](doc/issue-210.md)
+- 第209期：[职场生态](doc/issue-209.md)
+- 第208期：[社交智慧](doc/issue-208.md)
+
+## 十月
+
+- 第207期：[中年危机](doc/issue-207.md)
+- 第206期：[说服一个人](doc/issue-206.md)
+- 第205期：[利润的源泉](doc/issue-205.md)
+- 第204期：[自己所寻觅的世界](doc/issue-204.md)
+- 第203期：[失败中学到的东西](doc/issue-203.md)
+
 ## 九月
 
 - 第202期：[易如反掌](doc/issue-202.md)
