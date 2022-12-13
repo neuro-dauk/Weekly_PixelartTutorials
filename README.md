@@ -159,7 +159,7 @@ Collect any pixel art tutorials
 ## 四月
 
 - 第130期: [快速学习](doc/issue-130.md) 
-- 第129期:[生最美好的事情](doc/issue-129.md)
+- 第129期: [最美好的事情](doc/issue-129.md)
 - 第128期：[旅行的记忆](doc/issue-128.md)
 - 第127期：[生命质地越来越稀薄](doc/issue-127.md)
 
