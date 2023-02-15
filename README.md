@@ -5,11 +5,28 @@ Collect any pixel art tutorials
 想要投稿，分享内容，招聘求职或接发外包，[issue](https://github.com/pixel32/Weekly_PixelartTutorials/issues) 提交。
 
 
+# 2023
+
+## 二月
+
+- 第222期：[没人在乎你](doc/issue-222.md)
+
+## 一月
+
+- 第221期：[真正的自由](doc/issue-221.md)
+- 第220期：[烦恼和快乐](doc/issue-220.md)
+- 第219期：[按部就班](doc/issue-219.md)
+- 第218期：[不喜欢自由](doc/issue-218.md)
+- 第217期：[自己的命运](doc/issue-217.md)
+
 # 2022
 
 ## 十二月
 
 
+- 第216期：[最聪明的年轻人](doc/issue-216.md)
+- 第215期：[学习的唯一方法](doc/issue-215.md)
+- 第214期：[能不阳就不阳](doc/issue-214.md)
 - 第213期：[白手起家](doc/issue-213.md)
 - 第212期：[徒劳无功](doc/issue-212.md)
 
