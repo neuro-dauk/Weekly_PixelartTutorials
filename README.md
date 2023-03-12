@@ -7,8 +7,16 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 三月
+
+- 第226期：[没人听你说话](doc/issue-226.md)
+
 ## 二月
 
+
+- 第225期：[正确区分朋友](doc/issue-225.md)
+- 第224期：[保持不同的自由](doc/issue-224.md)
+- 第223期：[信息就是权力](doc/issue-223.md)
 - 第222期：[没人在乎你](doc/issue-222.md)
 
 ## 一月
