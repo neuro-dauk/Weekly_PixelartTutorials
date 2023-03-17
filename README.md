@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 三月
 
+- 第227期：[说走就走](doc/issue-227.md)
 - 第226期：[没人听你说话](doc/issue-226.md)
 
 ## 二月
