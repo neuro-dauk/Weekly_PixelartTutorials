@@ -7,8 +7,16 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 四月
+
+- 第232期：[当你焦虑时](doc/issue-232.md)
+- 第231期：[看似有潜力的人](doc/issue-231.md)
+- 第230期：[论资排辈](doc/issue-230.md)
+
 ## 三月
 
+
+- 第229期：[30岁有30岁的艰辛](doc/issue-229.md)
 - 第228期：[讲话不容易](doc/issue-228.md)
 - 第227期：[说走就走](doc/issue-227.md)
 - 第226期：[没人听你说话](doc/issue-226.md)
