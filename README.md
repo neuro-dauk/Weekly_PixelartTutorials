@@ -7,8 +7,13 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 五月
+
+- 第234期：[依靠自己](doc/issue-234.md)
+
 ## 四月
 
+- 第233期：[不能合作](doc/issue-233.md)
 - 第232期：[当你焦虑时](doc/issue-232.md)
 - 第231期：[看似有潜力的人](doc/issue-231.md)
 - 第230期：[论资排辈](doc/issue-230.md)
