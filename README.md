@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第239期：[一定会贬值](doc/issue-239.md)
 - 第238期：[非要自己干](doc/issue-238.md)
 
 ## 五月
