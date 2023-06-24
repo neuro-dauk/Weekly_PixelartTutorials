@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第241期：[对自己负责任](doc/issue-241.md)
 - 第240期：[养活自己](doc/issue-240.md)
 - 第239期：[一定会贬值](doc/issue-239.md)
 - 第238期：[非要自己干](doc/issue-238.md)
