@@ -7,6 +7,11 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 七月
+
+- 第242期：[角色扮演游戏](doc/issue-242.md)
+
+
 ## 六月
 
 - 第241期：[对自己负责任](doc/issue-241.md)
