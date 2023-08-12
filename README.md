@@ -7,9 +7,18 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 八月
+
+- 第247期：[文章的平均长度](doc/issue-247.md)
+- 第246期：[一个怎样的人](doc/issue-246.md)
+
 ## 七月
 
+- 第245期：[持续使用](doc/issue-245.md)
+- 第244期：[远期利益](doc/issue-244.md)
+- 第243期：[出人意料的答案](doc/issue-243.md)
 - 第242期：[角色扮演游戏](doc/issue-242.md)
+
 
 
 ## 六月
