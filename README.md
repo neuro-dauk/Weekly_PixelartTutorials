@@ -7,6 +7,11 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 九月
+
+- 第251期：[相关样本容量](doc/issue-251.md)
+- 第250期：[自以为知道](doc/issue-250.md)
+
 ## 八月
 
 - 第248期：[最好的履历](doc/issue-248.md)
