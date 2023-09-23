@@ -9,6 +9,8 @@ Collect any pixel art tutorials
 
 ## 九月
 
+- 第253期：[真实居住成本](doc/issue-253.md)
+- 第252期：[二阶思维](doc/issue-252.md)
 - 第251期：[相关样本容量](doc/issue-251.md)
 - 第250期：[自以为知道](doc/issue-250.md)
 
