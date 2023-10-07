@@ -7,8 +7,13 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 十月
+
+- 第255期：[人生三大诱惑](doc/issue-255.md)
+
 ## 九月
 
+- 第254期：[财政系统](doc/issue-254.md)
 - 第253期：[真实居住成本](doc/issue-253.md)
 - 第252期：[二阶思维](doc/issue-252.md)
 - 第251期：[相关样本容量](doc/issue-251.md)
