@@ -7,6 +7,8 @@ Collect any pixel art tutorials
 
 ## 十月
 
+- 第257期：[真正幸福](doc/issue-257.md)
+- 第256期：[无穷无尽](doc/issue-256.md)
 - 第255期：[人生三大诱惑](doc/issue-255.md)
 
 ## 九月
