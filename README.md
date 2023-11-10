@@ -5,8 +5,13 @@ Collect any pixel art tutorials
 
 # 2023
 
+## 十一月
+
+- 第259期：[多笑](doc/issue-259.md)
+
 ## 十月
 
+- 第258期：[不断学习](doc/issue-258.md)
 - 第257期：[真正幸福](doc/issue-257.md)
 - 第256期：[无穷无尽](doc/issue-256.md)
 - 第255期：[人生三大诱惑](doc/issue-255.md)
