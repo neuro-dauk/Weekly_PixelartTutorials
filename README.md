@@ -29,6 +29,7 @@ Collect any pixel art tutorials
 
 ## 八月
 
+- 第249期：[难考的资格证](doc/issue-249.md)
 - 第248期：[最好的履历](doc/issue-248.md)
 - 第247期：[文章的平均长度](doc/issue-247.md)
 - 第246期：[一个怎样的人](doc/issue-246.md)
