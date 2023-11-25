@@ -7,6 +7,9 @@ Collect any pixel art tutorials
 
 ## 十一月
 
+- 第262期：[人生状态](doc/issue-262.md)
+- 第261期：[闲置成本](doc/issue-261.md)
+- 第260期：[生存技能](doc/issue-260.md)
 - 第259期：[多笑](doc/issue-259.md)
 
 ## 十月
