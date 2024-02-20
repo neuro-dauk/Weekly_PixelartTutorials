@@ -7,7 +7,30 @@ Collect any pixel art tutorials
 
 感谢大家的关注！
 
+# 2024
+
+## 二月
+
+- 第274期：[薪酬由供需法则决定](doc/issue-274.md)
+- 第273期：[最坏的情况](doc/issue-273.md)
+- 第272期：[十分收获](doc/issue-272.md)
+
+## 一月
+
+- 第271期：[忽略黑天鹅](doc/issue-271.md)
+- 第270期：[工作做不完的](doc/issue-270.md)
+- 第269期：[普通人](doc/issue-269.md)
+- 第268期：[担心](doc/issue-268.md)
+
 # 2023
+
+## 十二月
+
+- 第267期：[花出去的时间](doc/issue-267.md)
+- 第266期：[一流人才](doc/issue-266.md)
+- 第265期：[最大的缺点](doc/issue-265.md)
+- 第264期：[人的本质](doc/issue-264.md)
+- 第263期：[受害者心态](doc/issue-263.md)
 
 ## 十一月
 
