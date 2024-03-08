@@ -9,8 +9,14 @@ Collect any pixel art tutorials
 
 # 2024
 
+## 三月
+
+- 第277期：[信息和想法](doc/issue-277.md)
+- 第276期：[孤独不可避免](doc/issue-276.md)
+
 ## 二月
 
+- 第275期：[越了解越失望](doc/issue-275.md)
 - 第274期：[薪酬由供需法则决定](doc/issue-274.md)
 - 第273期：[最坏的情况](doc/issue-273.md)
 - 第272期：[十分收获](doc/issue-272.md)
