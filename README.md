@@ -11,6 +11,7 @@ Collect any pixel art tutorials
 
 ## 三月
 
+- 第278期：[落后](doc/issue-278.md)
 - 第277期：[信息和想法](doc/issue-277.md)
 - 第276期：[孤独不可避免](doc/issue-276.md)
 
