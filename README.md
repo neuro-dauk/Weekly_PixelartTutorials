@@ -9,6 +9,10 @@ Collect any pixel art tutorials
 
 # 2024
 
+## 四月
+
+- 第281期：[奴役之路](doc/issue-281.md)
+
 ## 三月
 
 - 第280期：[财务管理](doc/issue-280.md)
