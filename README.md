@@ -11,6 +11,9 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第284期：[前进的障碍](doc/issue-284.md)
+- 第283期：[生活方式](doc/issue-283.md)
+- 第282期：[降低风险](doc/issue-282.md)
 - 第281期：[奴役之路](doc/issue-281.md)
 
 ## 三月
