@@ -8,8 +8,15 @@ Collect any pixel art tutorials
 
 # 2024
 
+## 六月
+
+- 第291期：[时间成本](doc/issue-291.md)
+- 第290期：[无](doc/issue-290.md)
+- 第289期：[按自己喜欢的方式](doc/issue-289.md)
+
 ## 五月
 
+- 第288期：[一个人的价值](doc/issue-288.md)
 - 第287期：[学习的本质](doc/issue-287.md)
 - 第286期：[交易的3个层次](doc/issue-286.md)
 - 第285期：[做事](doc/issue-285.md)
