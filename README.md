@@ -10,6 +10,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第292期：[人生多一分选择](doc/issue-292.md)
 - 第291期：[时间成本](doc/issue-291.md)
 - 第290期：[无](doc/issue-290.md)
 - 第289期：[按自己喜欢的方式](doc/issue-289.md)
